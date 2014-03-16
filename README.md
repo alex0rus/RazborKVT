@@ -1,6 +1,10 @@
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/alex0rus/RazborKVT.git
-git push -u origin master
+alex0rus 16.03.14
+Version 0.01-alfa
+
+SSIAN
+Разбор файлов KVT для друга
+
+
+ENG
+Parsing KVT-files for Friend
+
