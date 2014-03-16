@@ -1,7 +1,7 @@
 alex0rus 16.03.14
 Version 0.01-alfa
 
-SSIAN
+RUSSIAN
 Разбор файлов KVT для друга
 
 
